@@ -5,6 +5,7 @@ export const StatisticsWrap = styled.section`
   width: 450px;
   display: block;
   margin: 0 auto;
+  margin-bottom: 30px;
   box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(0, 0, 0, 0.2);
   overflow: hidden;

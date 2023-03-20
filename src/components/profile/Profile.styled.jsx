@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ProfileWrap = styled.div`
   width: 280px;
   margin: 0 auto;
+  margin-bottom: 30px;
   overflow: hidden;
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
