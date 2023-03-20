@@ -9,7 +9,7 @@ export const TransactionhistoriWrap = styled.table`
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: #2679b1;
+  background-color: #187dc0;
 `;
 export const TransactionHhead = styled.thead``;
 export const TransactionTr = styled.tr``;
